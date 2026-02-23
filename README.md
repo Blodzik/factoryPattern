@@ -1,0 +1,1 @@
+This repository demonstrates the **Factory Method** creational design pattern. The goal of this pattern is to define an interface for creating an object, but let subclasses decide which class to instantiate.
